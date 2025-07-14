@@ -63,7 +63,7 @@ const Hero = () => {
             className="relative"
           >
             <img
-              src="/profile.jpg" // Ensure you have a profile.jpg in your public folder
+              src="/profile1.jpg" // Ensure you have a profile.jpg in your public folder
               alt="Fahad Rafi Khan"
               className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-white shadow-2xl"
             />
